@@ -1,4 +1,4 @@
-<H1 ALIGN=CENTER>Experiment 1 : Implementation of Bayesian Networks</H1>
+## Experiment 1 : Implementation of Bayesian Networks</H1>
 ## Name : vasanth s
 ## reg no : 2122222110052
 
