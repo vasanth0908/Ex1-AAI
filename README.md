@@ -1,7 +1,6 @@
 <H1 ALIGN=CENTER>Experiment 1 : Implementation of Bayesian Networks</H1>
-<H3> Name :  Aankarsh</H3>
-<H3>Register No. 212223233001</H3>
-<H3>DATE: 17/04/25</H3>
+## Name : vasanth s
+## reg no : 2122222110052
 
 ## Aim :
 To create a bayesian Network for the given dataset in Python
